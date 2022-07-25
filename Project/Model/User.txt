@@ -1,0 +1,7 @@
+111|payel|programmer1001101@gmail.com|2022-07-15|Male|dhaka1200|111|Customer|;
+111|payel|pauleshan11@gmail.com|2022-07-22|Male|dhaka1235|222|Customer|;
+889|kk|pauleshan11@gmail.com|2022-07-15|Male|dhaka3600|889|Customer|;
+124|payel|mahiburpayel1001101@gmail.com|2022-07-22|Male|dhaka3600|124|Customer|;
+124|www|pauleshan11@gmail.com|2022-07-16|Male|dhaka3600|111|Customer|;
+111|mahiburpayel1001101@gmail.com|pauleshan11@gmail.com|2000-01-16|Male|dhaka3600|00000|Accountant|;
+111|mahiburpayel1001101@gmail.com|mahiburpayel1001101@gmail.com|2022-12-20|Male|dhaka3600|000|Accountant|;
